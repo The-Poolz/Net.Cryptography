@@ -5,7 +5,7 @@
 		<Nullable>enable</Nullable>
 		<PackageId>Net.Cryptography.SHA256</PackageId>
 		<Title>Net.Cryptography.SHA256</Title>
-		<Version>1.0.0</Version>
+		<Version>1.1.0</Version>
 		<Authors>ArdenHide, Lomet</Authors>
 		<Company>The-Poolz</Company>
 		<Product>Net.Cryptography.SHA256</Product>
@@ -13,11 +13,7 @@
 		<RepositoryType>git</RepositoryType>
 		<RepositoryUrl>https://github.com/The-Poolz/Net.Cryptography</RepositoryUrl>
 		<PackageTags>cryptography; sha256; hash; security; .net; encryption</PackageTags>
-		<PackageReleaseNotes>
-			Initial release of Net.Cryptography.SHA256.
-			Features include: SHA256 hash generation for strings, optimized for .NET 6.0.
-			This release provides a straightforward and efficient way to compute SHA256 hashes in .NET applications.
-		</PackageReleaseNotes>
+		<PackageReleaseNotes>https://github.com/The-Poolz/Net.Cryptography/releases/tag/v1.1.0</PackageReleaseNotes>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
 	</PropertyGroup>
